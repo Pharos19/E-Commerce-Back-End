@@ -2,7 +2,7 @@
 
 ## Description
 
-This application provides a means for an e-commerce company to edit or add new data to their database. Currently the models that are included in this database are Categories, Products, Product Tags, and Tags. 
+My challenge this week was to build the back end for an e-commerce site. I was tasked with using an Express.js API and instructed to configure it to use Sequelize to interact with a MySQL database. Testing was completed in Postman. The application will not be deployed, so a video walkthrough is provided below.
 
 ## Table of Contents 
 
