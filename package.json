@@ -1,0 +1,28 @@
+{
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pharos19/E-Commerce-Back-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pharos19/E-Commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/Pharos19/E-Commerce-Back-End#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mysql2": "^3.1.2",
+    "sequelize": "^6.28.1"
+  }
+}
